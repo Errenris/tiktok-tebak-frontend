@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "word": "apel",
+    "hint": "Buah merah bulat"
+  },
+  {
+    "id": 2,
+    "word": "rumah",
+    "hint": "Tempat tinggal"
+  },
+  {
+    "id": 3,
+    "word": "kucing",
+    "hint": "Hewan yang suka ngeong"
+  },
+  {
+    "id": 4,
+    "word": "komputer",
+    "hint": "Alat kerja digital"
+  },
+  {
+    "id": 5,
+    "word": "sepeda",
+    "hint": "Alat transportasi tanpa bensin"
+  }
+]
